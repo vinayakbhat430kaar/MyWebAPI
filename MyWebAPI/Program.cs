@@ -3,6 +3,8 @@ using Microsoft.Identity.Client;
 using MyWebAPI.Data;
 using MyWebAPI.Repository;
 
+//https://www.youtube.com/watch?v=yLHWt-1aSCQ&list=PLaFzfwmPR7_IPzBR4AI0eoojmIdTFJmHs
+//yt playlist reference
 internal class Program
 {
     public IConfiguration Config{ get; }
